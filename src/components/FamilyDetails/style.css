@@ -1,0 +1,55 @@
+.box-details {
+  width: 58% !important;
+  height: 80vh !important;
+  margin-top: 20px !important;
+  position: absolute !important;
+  margin-left: 30% !important;
+  background-color: #292f38 !important;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4) !important;
+}
+
+.title {
+  font-size: 20px !important;
+  font-weight: bold !important;
+  margin-bottom: 10px !important;
+  width: 98% !important;
+  text-align: center !important;
+  padding: 10px !important;
+  background-color: #3aa52a !important;
+  font-family: Josefin Sans !important;
+  color: white !important;
+}
+
+.container-details {
+  display: flex !important;
+  height: 85% !important;
+  flex-direction: column !important;
+  width: 80% !important;
+  margin-top: 30px !important;
+}
+
+.row {
+  display: flex !important;
+  flex-direction: row !important;
+  margin-top: 30px !important;
+}
+
+.field1 {
+  font-size: 20px !important;
+  font-weight: bold !important;
+  width: 25% !important;
+  text-align: left !important;
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+  color: #8f8a8a !important;
+}
+
+.field2 {
+  font-size: 20px !important;
+  width: 75% !important;
+  text-align: left !important;
+  color: white !important;
+  font-family: Josefin Sans !important;
+  margin-left: 20px !important;
+}
