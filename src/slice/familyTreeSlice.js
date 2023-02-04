@@ -79,18 +79,6 @@ const initialState = {
         img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlnJSqQIWpfRsmV3BqkdehlPLG4e7WJ2QKuBvOehdI2g&s",
         title: "4",
       },
-      {
-        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss0xBdije0bH7AlS0cG4K1I434j2RrwTrtFx_QvFiILCwk8byLWopDFuKlusxUhlgVGw&usqp=CAU",
-        title: "4",
-      },
-      {
-        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss0xBdije0bH7AlS0cG4K1I434j2RrwTrtFx_QvFiILCwk8byLWopDFuKlusxUhlgVGw&usqp=CAU",
-        title: "4",
-      },
-      {
-        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss0xBdije0bH7AlS0cG4K1I434j2RrwTrtFx_QvFiILCwk8byLWopDFuKlusxUhlgVGw&usqp=CAU",
-        title: "5",
-      },
     ],
     children: [
       {
